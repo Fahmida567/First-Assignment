@@ -1,0 +1,141 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+   
+
+}
+#font{
+    font-family:cursive;
+    font-style: inherit;
+    font-weight: bold;
+    font-size: 30px;
+}
+.img-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+#pFont
+{
+    
+    font-family:'Courier New', Courier, monospace; 
+     font-size:15px;
+     font-weight: bold;
+}
+.food-frame
+{   margin-top: 60px;
+    display:flex;
+    background-image: url(images/7.png);
+    background-position:right;
+
+
+}
+.flexible-container
+{
+   display:flex;
+   margin-bottom: 150px;
+   
+}
+h1{
+    font-size: 50px;
+    color:
+}
+h2{
+    font-size: 40px;
+}
+
+.orange{
+    color: orange;
+    font-size: 50px;
+    font-family:cursive;
+}
+
+/* .frame{
+    background-image: url(images/frame.png);
+    background-repeat: no-repeat;
+    
+} */
+.half-width
+{
+    width: 100%;
+    padding-left: 5%;
+    
+  
+    
+
+
+}
+
+.experince-area{
+  text-align: center;
+  
+  background-repeat: no-repeat;
+  
+}
+.img
+{
+  border-radius:10px;
+  padding:0px;
+  margin: 0%;
+  width:100%;
+
+
+}
+
+.half-width img
+{
+    width:100%;
+}
+
+
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(219, 54, 25));
+    background-color: orange;
+    padding: 20px 50px;
+    color: white;
+    border-radius: 45px;
+    font-weight: 700;
+    
+}
+
+
+ 
+  #h2Font {
+    color: gray;
+    text-align: center;
+    font-size: 40px;
+}
+
+.box-width {
+    width: 30%;
+    box-shadow: 20px 20px 60px rgba(128, 128, 128, 0.986);
+    margin: 75px;
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.box-width img {
+    width: 100%;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  padding: 3%;
+  color:white;
+  
+  
+  
+}
+#orange{
+  color: orange;
+  font-size: 40px;
+}
+#gray
+{
+  color: gray;
+  font-size: 40px;
+}
